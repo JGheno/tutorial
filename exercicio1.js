@@ -13,4 +13,4 @@ const notas = [
     },
   ];
   
-  console.log(notas);
+  console.table(notas);
